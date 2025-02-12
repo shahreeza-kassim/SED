@@ -3,6 +3,8 @@
 
 # Student Engagement Dataset
 
+The dataset will be made publicly available once the submitted paper is accepted. 
+
 ## Overview
 
 This dataset contains information on student engagement. There are four .csv files that come with this dataset which are
