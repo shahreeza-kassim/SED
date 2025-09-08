@@ -66,7 +66,7 @@ It consists of 16,909 rows and 20 columns. Each column corresponds to
 20.	**no_of_quizzes_attempt**- The total number of quizzes attempted by each student across all courses.
 
 
-
+This dataset is also available on IEEE dataport. IEEE dataport will be updated soon. Apologies for the delay. 
 
 ## Usage
 
