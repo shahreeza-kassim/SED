@@ -3,7 +3,7 @@
 
 # Student Engagement Dataset
 
-The dataset will be made publicly available once the submitted paper is accepted. 
+This dataset accompanies the paper "Student engagement dataset (SED): An online learning activity dataset", published in *IEEE Access* (2025). See [Citation](#citation).
 
 ## Overview
 
@@ -66,8 +66,6 @@ It consists of 16,909 rows and 20 columns. Each column corresponds to
 20.	**no_of_quizzes_attempt**- The total number of quizzes attempted by each student across all courses.
 
 
-This dataset is also available on IEEE dataport. IEEE dataport will be updated soon. Apologies for the delay. 
-
 ## Usage
 
 This dataset can be used for the following purposes:
@@ -75,6 +73,23 @@ This dataset can be used for the following purposes:
 - Predicting academic outcomes based on engagement levels.
 - Identifying factors that contribute to higher or lower student engagement.
 
+## Citation
+
+If you use this dataset in your research, please cite the original paper:
+
+> M. S. S. Kassim, Z. H. Azizul, and A. A. H. Ahmad Fuaad, "Student engagement dataset (SED): An online learning activity dataset," *IEEE Access*, vol. 13, pp. 23607–23617, 2025.
+
+```bibtex
+@article{kassim2025student,
+  title={Student engagement dataset (SED): An online learning activity dataset},
+  author={Kassim, Muhammad Shahreeza Safiruz and Azizul, Zati Hakim and Fuaad, AAH Ahmad},
+  journal={IEEE Access},
+  volume={13},
+  pages={23607--23617},
+  year={2025},
+  publisher={IEEE}
+}
+```
 
 ## Contact
 
